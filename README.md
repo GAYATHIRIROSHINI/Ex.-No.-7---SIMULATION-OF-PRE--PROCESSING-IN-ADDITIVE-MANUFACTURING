@@ -44,9 +44,23 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+### Step-1:
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/9e5e83d3-b3fd-45d6-bf9c-4d8bb753003e" />
+### Step-2:
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/8b3323ad-9eb1-47b7-bf96-f58bc04c06b4" />
+### Step-3:
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/256a85d7-a38d-4b92-b896-ad9258857828" />
+### Step-4:
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/216217a2-c54d-4cf6-af34-1223b6a7e2ba" />
+### Step-5:
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/eed645e8-c5ff-4fe4-a997-2e5891d1cef9" />
+### Step-6:
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/4c30878d-eae2-49f3-a5a5-89792dc10d2e" />
 
-### Name:
-### Register Number:
+
+
+### Name:GAYATHIRI ROSHINI M 
+### Register Number:212223110012
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
